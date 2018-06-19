@@ -1,1 +1,2 @@
-{\rtf1}
+# npm insyall
+# npm run dev
