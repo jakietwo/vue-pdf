@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# vue-pdf
+# vue-webRTC
 
-> vue-pdf demo
+> vue-webRTC demo
 
 ## Build Setup
 
